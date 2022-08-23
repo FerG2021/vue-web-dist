@@ -1,0 +1,1 @@
+import{_ as a,r as o,o as t,c as s,a as n,w as _,b as c}from"./index.8bc8b4af.js";const r={},l={class:"home-page"},d=c("h1",null,"Home",-1);function p(i,m,u,f,x,h){const e=o("el-card");return t(),s("main",l,[n(e,null,{default:_(()=>[d]),_:1})])}var $=a(r,[["render",p]]);export{$ as default};
