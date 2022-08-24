@@ -1,0 +1,1 @@
+import{_ as a,r as o,o as n,c as t,a as c,w as r,b as s}from"./index.ec5771ba.js";const _={},l=s("h1",null,"Configuraci\xF3n",-1);function d(i,p,u,f,m,x){const e=o("el-card");return n(),t("main",null,[c(e,null,{default:r(()=>[l]),_:1})])}var $=a(_,[["render",d]]);export{$ as default};
